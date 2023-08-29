@@ -5,7 +5,7 @@
 3. MtM wires
 4. MtF wires
 5. Laser module
-6. 2 potentiometers
+6. 2 10kΩ potentiometers
 7. 2 servo motors
 
 
