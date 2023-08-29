@@ -10,7 +10,7 @@
 
 
 ## Wiring and method
-![Wiring diagram](https://photos.google.com/photo/AF1QipMsy-SvSbrU7KewcM4GpXNwgMqV2OMVyHp5NFfd)
+![Wiring diagram](https://photos.app.goo.gl/CBbwRm43iqhZNm3GA)
 The connections you need to make are:
  -  First Potentiometer:
     
